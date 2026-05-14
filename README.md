@@ -2,6 +2,8 @@
 
 Onyx Forge is an advanced AI image generation platform designed specifically for creating stunning product marketing banners and visual assets. Powered by Google's state-of-the-art Gemini and Imagen models, it offers unprecedented control over photographic elements to generate visually striking advertisements.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/155e7bfd-cac2-4183-a34c-67b369175177" />
+
 ## Features
 
 - **Prompt Auto-Enhancement:** Automatically refines simple descriptions into highly detailed, visceral prompts optimized for product advertising using Gemini.
